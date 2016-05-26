@@ -123,3 +123,13 @@ heo_sy_: 🐶안개 🐶찰스 🐶하랑
 Source: https://www.instagram.com/p/BF37kokELCT/
 Image count reached! :)
 ```
+
+## color example
+
+![](https://i.imgur.com/1hTSGwi.png)
+
+See, doesn't it look better in color?! :smile:
+
+## contributing
+
+If you find and want to fix an issue or something, feel free to fork, code, and submit a PR.
