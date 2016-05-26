@@ -8,6 +8,8 @@ Make sure you have Ruby 2.3.1 installed before doing the following!
 
 1. `git clone https://github.com/andrewjkerr/instatags.git && cd instatags`
 2. `bundle install`
+3. `mv config/application.yml.sample config/application.yml`
+4. Put your Instagram client ID into the `config/application.yml`
 
 I recommend running in a terminal that supports colors for more fun!
 
