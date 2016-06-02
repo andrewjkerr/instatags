@@ -2,6 +2,10 @@
 
 A small script to display the ASCII art of images fetched from a tag on Instagram.
 
+## NOTICE
+
+Instagram's "sandbox mode" has broken this application. Instagram now requires a full OAuth login flow as well as application review and I _highly_ doubt they'll accept this. Oh well, it was good while it lasted.
+
 ## setup
 
 Make sure you have Ruby 2.3.1 installed before doing the following!
